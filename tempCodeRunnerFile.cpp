@@ -1,3 +1,1 @@
-if(seg[i] < seg[i+1]){
-        //     count = 0;
-        // }
+cout<<xi[j] << yi[j];
